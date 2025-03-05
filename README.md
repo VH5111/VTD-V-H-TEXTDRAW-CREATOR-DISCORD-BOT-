@@ -11,7 +11,7 @@ VTD Discord Bot is a **SA-MP TextDraw editor** that enables users to create, mod
 ## 🚀 Features  
 ✅ **Interactive TextDraw Editor** – Move, resize, and edit TextDraws easily.  
 ✅ **Image Upload Support** – Upload PNG images to use as TextDraw backgrounds.  
-✅ **Alignment & Formatting** – Change text size, color, and font.  
+✅ **Alignment & Formatting** – Change text size, and font size.  
 ✅ **Live Previews** – See real-time updates in Discord.  
 ✅ **Export to PAWN** – Download TextDraws as `.pwn` files.  
 ✅ **Help Menu** – Easy-to-use interactive help command.  
