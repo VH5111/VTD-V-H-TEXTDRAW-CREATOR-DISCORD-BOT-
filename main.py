@@ -15,7 +15,7 @@ import io
 import asyncio
 from datetime import datetime
 
-TOKEN = "YOUR DICORD BOT TOKEN HERE"
+TOKEN = "YOUR DISCORD BOT TOKEN HERE"
 
 intents = discord.Intents.default()
 bot = commands.Bot(command_prefix="!", intents=discord.Intents.all())
