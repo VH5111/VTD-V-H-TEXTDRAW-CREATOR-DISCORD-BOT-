@@ -1,6 +1,6 @@
 # VTD Discord Bot Code Version 1.1  
 
-![VTD Bot Banner](your-image-url.png)  
+![VTD Bot Banner](https://media.discordapp.net/attachments/1343165330046062595/1346924972249059348/InShot_20250306_002729171.jpg?ex=67c9f522&is=67c8a3a2&hm=aa5552a64e7fefad1ff344ac8e9701cd6f8001efa3a2b3dc1e11b0068a636226&)  
 
 ## 📌 About  
 VTD Discord Bot is a **SA-MP TextDraw editor** that enables users to create, modify, and export TextDraws directly from a Discord channel. This bot provides real-time text and image adjustments, making TextDraw creation easier and faster.  
