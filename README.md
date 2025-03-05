@@ -6,7 +6,7 @@
 VTD Discord Bot is a **SA-MP TextDraw editor** that enables users to create, modify, and export TextDraws directly from a Discord channel. This bot provides real-time text and image adjustments, making TextDraw creation easier and faster.  
 
 ### ✨ Preview  
-![TextDraw Example](your-image-url.png)  
+![TextDraw Example](https://media.discordapp.net/attachments/1343165330046062595/1346928132032172209/1741200529421.png?ex=67c9f813&is=67c8a693&hm=c7c4bbab9719f698dfadee5ed1245804f3edad3fe12fbf8b2533492f91c9fc83&)  
 
 ## 🚀 Features  
 ✅ **Interactive TextDraw Editor** – Move, resize, and edit TextDraws easily.  
