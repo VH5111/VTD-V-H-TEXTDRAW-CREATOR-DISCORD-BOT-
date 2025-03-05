@@ -16,8 +16,6 @@ VTD Discord Bot is a **SA-MP TextDraw editor** that enables users to create, mod
 ✅ **Export to PAWN** – Download TextDraws as `.pwn` files.  
 ✅ **Help Menu** – Easy-to-use interactive help command.  
 
-## 🛠️ Installation  
-
 ### 1️⃣ Prerequisites  
 - **Python 3.8+** installed  
 - A **Discord bot token** from [Discord Developer Portal](https://discord.com/developers/applications)  
@@ -33,15 +31,9 @@ VTD Discord Bot is a **SA-MP TextDraw editor** that enables users to create, mod
    ```sh
    pip install -r requirements.txt
    ```  
-3. **Configure environment variables:**  
-   - Create a `.env` file in the root directory  
-   - Add the following lines:  
-     ```sh
-     BOT_TOKEN=your-discord-bot-token
-     ```  
-4. **Run the bot:**  
+3. **Run the bot:**  
    ```sh
-   python bot.py
+   main.py
    ```  
 
 ## 🔧 Commands  
