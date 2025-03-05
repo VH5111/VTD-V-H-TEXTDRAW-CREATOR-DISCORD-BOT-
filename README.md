@@ -24,7 +24,7 @@ VTD Discord Bot is a **SA-MP TextDraw editor** that enables users to create, mod
 ### 2️⃣ Setup Instructions  
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/YOUR-GITHUB-USERNAME/VTD-DISCORD-BOT.git
+   git clone https://github.com/VH5111/VTD-V-H-TEXTDRAW-CREATOR-DISCORD-BOT-
    cd VTD-DISCORD-BOT
    ```  
 2. **Install dependencies:**  
@@ -61,8 +61,8 @@ VTD Discord Bot is a **SA-MP TextDraw editor** that enables users to create, mod
    ```  
 
 ## 🖼️ Screenshots  
-![Screenshot 1](your-image-url.png)  
-![Screenshot 2](your-image-url.png)  
+![Screenshot 1](https://media.discordapp.net/attachments/1343165330046062595/1346928708866277446/Screenshot_2025_0306_010313.png?ex=67c9f89c&is=67c8a71c&hm=7c033c476ce370c8c43a875c93a16116b1ee01d8caa6a124aa05d95b77e1be4f&)  
+![Screenshot 2](https://media.discordapp.net/attachments/1343165330046062595/1346928708463890545/Screenshot_2025_0306_010329.png?ex=67c9f89c&is=67c8a71c&hm=cd706b1f9bdd50b549f57e7d0e90b60e38c62abe3969c55e30f6ce029d60d2df&)  
 
 ## 📜 License  
 This project is licensed under the **MIT License**.  
@@ -71,4 +71,4 @@ This project is licensed under the **MIT License**.
 Join our **Discord Server** for support: [Developers Café](https://discord.gg/AeGuFxBAnc)  
 
 ---
-Made by **V H Codes** for **Developers Café**.  
+Made by **DEVELOPER V H#5111** for **Developers Cafe**.  
