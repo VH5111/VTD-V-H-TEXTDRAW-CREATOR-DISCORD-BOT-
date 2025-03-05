@@ -65,7 +65,7 @@ VTD Discord Bot is a **SA-MP TextDraw editor** that enables users to create, mod
 ![Screenshot 2](https://media.discordapp.net/attachments/1343165330046062595/1346928708463890545/Screenshot_2025_0306_010329.png?ex=67c9f89c&is=67c8a71c&hm=cd706b1f9bdd50b549f57e7d0e90b60e38c62abe3969c55e30f6ce029d60d2df&)  
 
 ## 📜 License  
-This project is licensed under the **MIT License**.  
+This project is licensed under the [MIT LICENCE](https://cdn.discordapp.com/attachments/1343165330046062595/1346931290150273094/LICENSE?ex=67c9fb04&is=67c8a984&hm=4315e4d7e10d76934e91ec3174f93df445fe86efc90f42a35e4526154f0a983d&)
 
 ## 📬 Contact  
 Join our **Discord Server** for support: [Developers Café](https://discord.gg/AeGuFxBAnc)  
