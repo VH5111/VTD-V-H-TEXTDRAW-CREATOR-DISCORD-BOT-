@@ -25,7 +25,7 @@ VTD Discord Bot is a **SA-MP TextDraw editor** that enables users to create, mod
 1. **Clone the repository:**  
    ```sh
    git clone https://github.com/VH5111/VTD-V-H-TEXTDRAW-CREATOR-DISCORD-BOT-
-   cd VTD-DISCORD-BOT
+   cd VTD-DISCORD-BOT-
    ```  
 2. **Install dependencies:**  
    ```sh
